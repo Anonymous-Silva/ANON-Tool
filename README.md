@@ -49,7 +49,7 @@ winget install Microsoft.PowerShell
 **Download the Script:**  
 Clone or copy the script:
 ```bash
-git clone https://github.com/Anonymous-Silva/recon-tool.git
+git clone https://github.com/Anonymous-Silva/ANON Tool.git
 ```
 Or copy into `recon-tool.ps1`.
 
