@@ -1,4 +1,4 @@
-# Anonymous-Silva Recon Tool (Windows Edition)
+# Anonymous-Silva ANON Tool (Windows Edition)
 <!-- Replace with actual banner image if available -->
 
 A powerful network reconnaissance and information-gathering tool for Windows, designed for security researchers, penetration testers, and network enthusiasts. Built in PowerShell, this tool provides a suite of utilities to gather information about websites, IP addresses, phone numbers, emails, and more, with a sleek interface and robust functionality.
